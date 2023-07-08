@@ -2,7 +2,9 @@ I am Tim Gruene and head the Centre for X-ray Structure Analysis,
 part of the Faculty of Chemistry at the University of Vienna. I prefer 
 to call it 'Centre for Chemical Structure Analysis', because we not only
 use X-rays for crystallography, but also electrons. My research interest 
-is crystallography in general and electron crystallography in particular.
+is crystallography in general and electron crystallography in particular:
+how to get the best out of the instrument, addressing detector development (in collaboration
+with the PSI detector group), data collection strategies and data processing.
 
 
 <!---
